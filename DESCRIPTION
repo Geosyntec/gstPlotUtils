@@ -1,4 +1,4 @@
-Package: gst.plots
+Package: gstPlotUtils
 Title: ggplot2 helper functions for working within company SOPs
 Version: 0.0.0.9000
 Authors@R: 
