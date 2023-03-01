@@ -1,0 +1,17 @@
+Package: gst.plots
+Title: ggplot2 helper functions for working within company SOPs
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michael", "Maniscalco",  
+    "m.maniscalco534@gmail.com", 
+    role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-9361-5260"))
+    person(
+    "Summer", "Broeckx-Smith",
+    email = "SBroeckxSmith@Geosyntec.com",
+    role = c("aut", "cre"))
+Description: This package provides a variety of helper functions for creating plots within company SOPs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
