@@ -3,5 +3,6 @@
 export(fancyNumbers)
 export(log10round)
 export(multipagePDFsave)
+export(prettyLogs)
 importFrom(grDevices,dev.off)
 importFrom(grDevices,pdf)
